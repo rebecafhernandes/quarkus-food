@@ -1,4 +1,4 @@
-package com.rfhernandes;
+package com.rfhernandes.Resources;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
